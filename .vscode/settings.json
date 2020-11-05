@@ -1,0 +1,4 @@
+{
+    "prettier.arrayExpand": true,
+    "prettier.alignObjectProperties": true
+}
