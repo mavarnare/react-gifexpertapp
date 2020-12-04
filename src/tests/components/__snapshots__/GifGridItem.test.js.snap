@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas para el componente GifGridItem Prueba de snapshot 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="Un título"
+    src="https://i0.wp.com/fincasbaleares.com/wpfb/wp-content/uploads/2016/11/dummy-image.jpg?ssl=1"
+  />
+  <p>
+    Un título
+  </p>
+</div>
+`;
